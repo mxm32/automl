@@ -1,0 +1,12 @@
+pylint
+pytest
+click
+requests
+black
+pytest-cov
+transformers
+torch
+sentencepiece
+beautifulsoup4
+click
+sacremoses
