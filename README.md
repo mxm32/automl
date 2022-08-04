@@ -1,3 +1,6 @@
+[![AutoML build passing](https://github.com/mxm32/automl/actions/workflows/main.yml/badge.svg)](https://github.com/mxm32/automl/actions/workflows/main.yml)
+
+
 # automl
 
 ```
