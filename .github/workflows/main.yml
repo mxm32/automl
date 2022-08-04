@@ -1,4 +1,4 @@
-name: Python app test
+name: AutoML build passing
 on: [push]
 jobs:
   build:
