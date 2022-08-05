@@ -12,7 +12,7 @@ FLAML (Fast and Lightweight AutoML) is a lightweight Python library that finds a
 ![flaml](https://user-images.githubusercontent.com/88257891/182977065-5f31cde7-9490-45c3-a9fc-b75a100124cf.png)
 
 ## FLAML for Classification:
-For common machine learning tasks like classification and regression, it quickly finds quality models for user-provided data with low computational resources. It supports both classifcal machine learning models and deep neural networks.
+For common machine learning tasks like classification and regression, it quickly finds quality models for user-provided data with low computational resources. It supports both classical machine learning models and deep neural networks.
 [Source](https://github.com/microsoft/FLAML)
 
 ## Dataset
